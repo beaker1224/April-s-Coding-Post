@@ -8,7 +8,7 @@ if addiction == "drinking":
     if Q1 == "a":
         quit = input("Ok, the pros for drinking is that you might feel really relaxed. This is actually one of the main reasons that people drink. Some people feel stressed out, and they might want to escape their problems. But, this might cause a severe aftermath. If you start drinking too much, it might increase the chances of stroke and heart disease. Would you like to know how to stop drinking if you started? (yes/no) ")
     if Q1 == "b":
-    quit = input("So you want to quit drinking, right? Well, I understand it might be hard. We suggest you try drinking smaller amounts of alcohol, or to try to see a doctor about it. We're rooting for you! (Press 'enter' or 'return' to quit this app.) ")
+        quit = input("So you want to quit drinking, right? Well, I understand it might be hard. We suggest you try drinking smaller amounts of alcohol, or to try to see a doctor about it. We're rooting for you! (Press 'enter' or 'return' to quit this app.) ")
     if quit == "yes":
         print("So you want to quit drinking, right? Well, I understand it might be hard. We suggest you try drinking smaller amounts of alcohol, or to try to see a doctor about it. We're rooting for you! ")
     if quit == "no":
